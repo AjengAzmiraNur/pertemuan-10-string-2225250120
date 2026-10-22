@@ -3,8 +3,8 @@
 
 ## Identitas
 
-- **Nama:** Madiha
-- **NIM:** 2225250119
+- **Nama:** Ajeng Azmira Nur
+- **NIM:** 2225250120
 - **Kelas:** 3E
 - **Mata Kuliah:** Algoritma dan Pemrograman
 
